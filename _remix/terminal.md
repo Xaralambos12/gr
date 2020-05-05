@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Minamal Terminal
+title: Minimal Terminal
 header: no
 categories:
   - bash
